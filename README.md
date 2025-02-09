@@ -1,4 +1,4 @@
-# Zkouska2
+# Zkouska
 Testing repository to learn GitHub
 
 studenti = ("Adam!, "Eva")
